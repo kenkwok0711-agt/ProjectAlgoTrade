@@ -18,11 +18,23 @@ C)
 
 
 4)backtest
+
+VENV用法
+
+
 5)log或其它取代(程式運行監察用)
 Telegram alert
 
 
 量化方向
+
+巿場情緒
+多空比例
+情緒/籌碼量化指標
+https://x.com/i/grok/share/d2f1edfc09ad4428baecd6e54782cdf7
+
+
+
 
 
 999)Finish
