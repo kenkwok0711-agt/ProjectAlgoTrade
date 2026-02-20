@@ -12,21 +12,25 @@ C)
 
 1)API
 
-2)Trade logic checking
+2)Trade logic 
+checking
 
 3)more
 
 
 4)backtest
-
 VENV用法
+log或其它取代(程式運行監察用)
 
 
-5)log或其它取代(程式運行監察用)
+
+其它Function
 Telegram alert
 
 
-量化方向
+
+
+量化方向(或者知識向)
 
 巿場情緒
 多空比例
@@ -46,6 +50,7 @@ https://x.com/i/grok/share/d2f1edfc09ad4428baecd6e54782cdf7
 參考用AI頁
 
 https://x.com/i/grok?conversation=2017157775005274351
+
 
 
 
