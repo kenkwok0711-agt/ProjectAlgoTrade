@@ -6,31 +6,26 @@
 A)撈底型Algo
 B)頻率型(近距止賺，遠距止蝕，高頻少賺)
 
-C)
+C)思索一下200倍levage的策略
+ab倉要時限代替同時平倉
+另：思考金銀何時會完結升巿？還是已經牛末的bull trap？
 
 
-
+Programming向的研究 
 1)API
 
-2)Trade logic 
-checking
+2)Trade logic checking
 
 3)more
-
-
 4)backtest
 VENV用法
-log或其它取代(程式運行監察用)
-
 
 
 其它Function
 Telegram alert
 
 
-
-
-量化方向(或者知識向)
+量化方向
 
 巿場情緒
 多空比例
@@ -38,13 +33,18 @@ Telegram alert
 https://x.com/i/grok/share/d2f1edfc09ad4428baecd6e54782cdf7
 
 
-
-
+巿場判定該放入量化。
 
 999)Finish
-1000)總和的工具
+1000)總和的工具==>成為我的技能
+
+
 
 三)Python程式語言取代方案
+程式向的優化。
+
+
+知識無價，珍惜學習的時光，鍛鍊的時光！
 
 
 參考用AI頁
