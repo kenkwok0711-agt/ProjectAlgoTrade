@@ -15,6 +15,7 @@ C)思索一下200倍levage的策略
 D)事件型Algo
 
 ab倉要時限代替同時平倉
+
 另：思考金銀何時會完結升巿？還是已經牛末的bull trap？
 
 ##
@@ -59,7 +60,9 @@ https://x.com/i/grok/share/d2f1edfc09ad4428baecd6e54782cdf7
 
 
 ##
-四)Python程式語言取代方案
+四)
+
+Python程式語言取代方案
 程式向的優化。
 等
 
