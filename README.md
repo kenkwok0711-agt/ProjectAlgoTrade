@@ -1,4 +1,4 @@
-﻿﻿# ProjectAlgoTrade
+# ProjectAlgoTrade
 ##
 我Algo Trade之野望
 
@@ -102,3 +102,14 @@ https://x.com/i/grok?conversation=2017157775005274351
 
 
 
+
+
+有本書睇緊叫：Empower your fear
+掛住睇，激起我的鬥心，我會睇完再繼續做programme野。
+
+我並未放棄我的algo trading的野望。
+
+我有想想像，有實行有野心，我會成為最偉大的trader。
+並一步步向前邁進！
+
+我是拒絕平傭的男人，我會精於很多事，事事精益求精，無事可以阻擋我的進步。
