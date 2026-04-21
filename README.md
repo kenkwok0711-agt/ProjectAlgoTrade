@@ -73,6 +73,8 @@ https://x.com/i/grok/share/d2f1edfc09ad4428baecd6e54782cdf7
 巿場向
 巿況向
 配以相關策略
+
+
 Kelly公式
 
 
