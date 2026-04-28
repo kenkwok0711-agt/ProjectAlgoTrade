@@ -39,6 +39,16 @@ MACD稍為回落？
 
 Programming向的研究 
 
+0)新追加：
+多AGENT分工傾向：
+基本分析員
+技術分析員
+新聞分析員
+風險管理員
+交易員
+
+
+
 1)API
 
 2)Trade logic checking
