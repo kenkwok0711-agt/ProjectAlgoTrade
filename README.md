@@ -2,6 +2,9 @@
 ##
 我Algo Trade之野望
 
+擺正心態，Algo，賺錢，Coding，AI，AI Agent，ETC，緊要過返工內容，所以在工作做好的時間要比多D注意比上面幾項
+
+
 按重要排：
 零)
 哪靈魂一問，我在Binance該怎麼賺錢(量化方能？量化方法搵價值投資方法？怎變成Algotrade呢實際上)
