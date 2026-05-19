@@ -8,6 +8,8 @@
 每日睇返每個 Repositories，記返初衷，每日Set返時間表，掌控每日時間，進步 >> 一切， 要集中目標。多善用AI
 
 賭大細黎講polymarket完全是當天的晴雨表
+https://polymarket.com/event/what-price-will-xauusd-hit-in-may-2026
+
 
 按重要排：
 
@@ -91,7 +93,7 @@ N)more
 
 情緒/籌碼量化指標
 https://x.com/i/grok/share/d2f1edfc09ad4428baecd6e54782cdf7
-
+https://polymarket.com/event/what-price-will-xauusd-hit-in-may-2026
 
 
 巿場向
