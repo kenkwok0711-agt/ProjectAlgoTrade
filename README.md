@@ -12,6 +12,9 @@ https://polymarket.com/event/what-price-will-xauusd-hit-in-may-2026
 
 
 按重要排：
+負一)
+要休息夠，仲要減多少肥，做正確的事維持自己的健康/狀態。才可以去Algo trade
+
 
 
 零)
