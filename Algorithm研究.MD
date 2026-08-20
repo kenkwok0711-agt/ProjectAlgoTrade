@@ -1,3 +1,5 @@
+來段最新的Algorithm trade的套利python程式100行以內的內容轉即可
+
 這是一段 100行內的 ETF-NAV / Pair Trading 統計套利範例，較接近現代量化交易研究用途：
 
 import yfinance as yf
@@ -64,6 +66,11 @@ elif z.iloc[-1] < -2:
 else:
     print("Latest Signal : NEUTRAL")
 
+
+
+
+
+
 核心邏輯
 找兩個高度相關資產（SPY、IVV）。
 計算 Hedge Ratio（β）。
@@ -80,6 +87,8 @@ Market Neutral
 Pair Trading
 
 如果你做 CFD（黃金、原油、Nasdaq、恒指），目前量化圈更常研究的是：
+
+
 
 Kalman Filter Pair Trading
 Volatility Arbitrage
